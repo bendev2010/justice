@@ -48,3 +48,9 @@ h1 {
     display: grid;
     grid-template-columns: 3fr 1fr;
 }
+
+.sec2 img {
+    height: 45vh;
+    /*margin: 2.5vh;*/
+    float: left;
+}
