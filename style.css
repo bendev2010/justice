@@ -1,20 +1,33 @@
 * {
     margin: 0;
     box-sizing: border-box;
+    font-family: fantasy;
 }
 
 header {
     width: 100%;
-    height: 75vh;
+    height: 15vh;
+    background-image: url('img/wooden.jpg');
+    background-repeat: no-repeat;
+    background-position: cover;
+    text-align: center;
 }
 
-.head1 {
-    background-image: url('');
-    width: 50%;
+.sec1 {
+    width: 100%;
+    height: 50vh;
+    background-color: palevioletred;
+}
+
+.sec1 img {
+    height: 35vh;
+    margin: 5vw;
     float: left;
 }
 
-.head2 {
-    width: 50%;
-    float: left;
+.sec1 div {
+    float: right;
+    margin: 5vw;
+    background-color: white;
 }
+
