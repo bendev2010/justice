@@ -15,20 +15,25 @@ header {
 }
 
 .sec1 {
+    position: relative;
     width: 100%;
     height: 50vh;
     background-color: palevioletred;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
 }
 
 .sec1 img {
-    height: 35vh;
-    margin: 5vw;
+    height: 45vh;
+    margin: 2.5vh;
     float: left;
 }
 
 .sec1 div {
-    float: right;
-    margin: 5vw;
+    margin: 10%;
     background-color: white;
+    width: 40%;
+    height: 80%;
+    color: black;
 }
 
