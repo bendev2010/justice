@@ -25,11 +25,12 @@ h1 {
     background-color: rgb(231, 163, 231);
     display: grid;
     grid-template-columns: 1fr 3fr;
+    align-items: center;
 }
 
 .sec1 img {
     height: 45vh;
-    margin: 2.5vh;
+    /*margin: 2.5vh;*/
     float: left;
 }
 
