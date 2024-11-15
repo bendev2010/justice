@@ -58,7 +58,7 @@ h1 {
 }
 
 .sec2 div {
-    margin: 10%;
+    margin: 2.5%;
     background-color: rgba(167, 220, 245, 0.568);
     height: 80%;
     color: black;
@@ -68,18 +68,19 @@ h1 {
 .sec3 {
     width: 50%;
     height: 50vh;
-    background-color: rgb(200, 226, 248);
+    background-color: rgb(241, 248, 200);
     float: left;
 }
 
 .sec4 {
     width: 50%;
     height: 50vh;
-    background-color: rgb(200, 226, 248);
+    background-color: rgb(241, 248, 200);
     float: right;
 }
 
 iframe {
     height: 50vh;
     aspect-ratio: 16/9;
+    margin-left: 25vw;
 }
