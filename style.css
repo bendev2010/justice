@@ -53,8 +53,16 @@ h1 {
 
 .sec2 img {
     height: 45vh;
-    /*margin: 2.5vh;*/
+    margin: 2.5vh;
     float: left;
+}
+
+.sec2 div {
+    margin: 10%;
+    background-color: rgb(248, 209, 242);
+    height: 80%;
+    color: black;
+    padding: 30px;  
 }
 
 .sec3 {
