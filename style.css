@@ -31,7 +31,7 @@ h1 {
 
 .sec1 img {
     height: 45vh;
-    /*margin: 2.5vh;*/
+    margin: 2.5vh;
     float: left;
 }
 
@@ -55,4 +55,16 @@ h1 {
     height: 45vh;
     /*margin: 2.5vh;*/
     float: left;
+}
+
+.sec3 {
+    width: 50%;
+    height: 50vh;
+    background-color: rgb(200, 226, 248);
+}
+
+.sec4 {
+    width: 50%;
+    height: 50vh;
+    background-color: rgb(200, 226, 248);
 }
