@@ -76,3 +76,8 @@ h1 {
     height: 50vh;
     background-color: rgb(200, 226, 248);
 }
+
+iframe {
+    height: 50vh;
+    aspect-ratio: 16/9;
+}
