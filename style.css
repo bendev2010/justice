@@ -69,12 +69,14 @@ h1 {
     width: 50%;
     height: 50vh;
     background-color: rgb(200, 226, 248);
+    float: left;
 }
 
 .sec4 {
     width: 50%;
     height: 50vh;
     background-color: rgb(200, 226, 248);
+    float: right;
 }
 
 iframe {
